@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/eder/desenvolvimento/estudos/devops","disabled":false}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/eder/desenvolvimento/estudos/devops","disabled":false},"/tmp/vagrant-puppet-2/manifests":{"owner":"root","guestpath":"/tmp/vagrant-puppet-2/manifests","hostpath":"/home/eder/desenvolvimento/estudos/devops/manifests","disabled":false}}}
